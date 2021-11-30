@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning Computational and Applied Mathematics and minor in Data Anaylsis and Applied Statistics
 - 💞️ I’m looking to collaborate on Sports Statistics
 - 📫 How to reach me ltcohen43@gmail.com
+- I'm equipped in R, Python, and SAS
 
 <!---
 ltcohen43/ltcohen43 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
