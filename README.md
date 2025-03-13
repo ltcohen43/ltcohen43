@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ltcohen43
-- 👀 I’m interested in Data Anaylsis
-- 🌱 I’m currently learning Computational and Applied Mathematics and minor in Data Anaylsis and Applied Statistics
+- 👀 I’m interested in Data Analysis
+- 🌱 I’m graduated from Kennesaw State in Computational and Applied Mathematics and minor in Data Analysis and Applied Statistics
 - 💞️ I’m looking to collaborate on Sports Statistics
 - 📫 How to reach me ltcohen43@gmail.com
 - I'm equipped in R, Python, and SAS
